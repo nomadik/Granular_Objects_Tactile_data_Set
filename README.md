@@ -1,2 +1,2 @@
 # Granular_Objects_Tactile_data_Set
-Data set that consist of tactile data. 
+Data set that consist of tactile data. The data acquired using multimodal tactile sensor while squeezing granular objects.  Granular objects:     black pepper grains     brown sugar 	buckwheat     coffee grains    coffee powder     corn seeds     couscous 	dry grass     fin salt      grain salt     flour     green lentils     kidney beans 	round rice     sugar powder
